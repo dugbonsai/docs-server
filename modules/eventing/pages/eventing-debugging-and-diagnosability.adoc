@@ -128,7 +128,7 @@ NOTE: The *cbcollect_info* tool does not collect the Application log files.
 (Assumes default installation location)
 
 | Mac OS X
-| /Users/<user>/Library/Application Support/Couchbase/var/lib/ couchbase/data/@eventing
+| /Users/<user>/Library/Application Support/Couchbase/var/lib/couchbase/data/@eventing
 |===
 
 
