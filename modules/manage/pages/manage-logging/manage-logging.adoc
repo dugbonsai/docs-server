@@ -358,7 +358,7 @@ The available loggers are `ns_server`, `couchdb`, `user`, `Menelaus`, `ns_doctor
 +
 ----
 curl -X POST -u Administrator:password http://127.0.0.1:8091/diag/eval \
-                -d 'ale:set_loglevel(ns_server,error).
+                -d 'ale:set_loglevel(ns_server,error).'
 ----
 
 [#collecting-logs-using-cli]
